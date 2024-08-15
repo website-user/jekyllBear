@@ -23,7 +23,7 @@ This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub 
 
 Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
 
-
+<script>
     <iframe
       id="JotFormIFrame-242264450749056"
       title="Whistle Wrestling World Championship 2024"
@@ -39,3 +39,4 @@ Have a look around, this website is already themed with **jekyllBear**. If you l
     <script src='https://cdn.jotfor.ms/s/umd/latest/for-form-embed-handler.js'></script>
     <script>window.jotformEmbedHandler("iframe[id='JotFormIFrame-242264450749056']", "https://form.jotform.com/")</script>
     
+<script>
